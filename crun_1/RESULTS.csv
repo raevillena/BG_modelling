@@ -1,0 +1,13 @@
+,Model,Loss,Accuracy
+0,Model_1_EfficientNetB0,17.2429,98.3333
+1,Model_1_EfficientNetB0_with_fine-tuning,3.6189,98.3333
+2,Model_2_EfficientNetB0_with_augmentation,22.3938,95.0
+3,Model_2_EfficientNetB0_with_augmentation_and_fine-tuning,6.5174,96.6667
+4,Model_3_ResNet50v2,21.7117,95.0
+5,Model_3_ResNet50v2_with_fine-tuning,128.1378,63.3333
+6,Model_4_ResNet50v2_with_augmentation,27.3915,90.0
+7,Model_4_ResNet50v2_with_augmentation_with_fine-tuning,33.2003,91.6667
+8,Model_5_VGG16,97.5697,55.0
+9,Model_5_VGG16_with_fine-tuning,0.1393,100.0
+10,Model_6_VGG16_with_augmentation,98.8214,53.3333
+11,Model_6_VGG16_with_augmentation_and_fine-tuningn,13.5971,93.3333
